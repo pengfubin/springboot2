@@ -9,9 +9,9 @@ SpringBoot2核心技术与响应式编程
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  xxxxxxx
+2.  xxxxxxx
+3.  xxxxxxx
 
 #### 使用说明
 
